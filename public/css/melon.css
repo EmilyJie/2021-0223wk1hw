@@ -60,7 +60,7 @@ content{
 }
 
 /*footer*/
-.img_color{ margin-top: 100px; display: flex; justify-content: center;}
+.img_color{ margin-top: 30px; display: flex; justify-content: center;}
 .color_1{width:25px;height: 25px;background: #FF5462;margin-right: 10px;}
 .color_2{width:25px;height: 25px;background: #FFB2DB;margin-right: 10px;}
 .color_3{width:25px;height: 25px;background: #3DA44C;margin-right: 10px;}
@@ -112,5 +112,5 @@ footer .container p{color:#858585; text-align: center; margin-top: 20px;}
 @media screen and (max-width:320px){
     .bg_text p{padding:30px;width:290px;height: 450px;font-size: 1rem;}
     .flavor{margin-top:20px;}
-    footer  p{ -webkit-transform: scale(0.9);}
+    footer p{font-size:0.5rem;}
 }
