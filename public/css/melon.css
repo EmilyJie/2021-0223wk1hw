@@ -87,7 +87,7 @@ footer .container p{color:#858585; text-align: center; margin-top: 20px;}
     .btn_flavor img{width: 55px;height: 55px;}
 }
 @media screen and (max-width: 426px) {
-    .melon_bg{background-image:url('../img/melon/bg_melon_s.png');width:100%;background-repeat: no-repeat;}
+    .melon_bg{background-image:url('../public/img/melon/bg_melon_s.png');width:100%;background-repeat: no-repeat;}
     .bg_text{width: 283px;height: 434px;margin-top:200px;}
     .bg_text p{padding:30px;width: 395.6px;height: 434px;font-size: 1.2rem;}
     .bg_melon img{display: none;}
@@ -98,7 +98,7 @@ footer .container p{color:#858585; text-align: center; margin-top: 20px;}
     .btn_flavor img{width: 55px;height: 55px;}
 }
 @media screen and (max-width: 376px) {
-    .melon_bg{background-image:url('../img/melon/bg_melon_s.png');width:100%;background-repeat: no-repeat;}
+    .melon_bg{background-image:url('../public/img/melon/bg_melon_s.png');width:100%;background-repeat: no-repeat;}
     .bg_text{width: 283px;height: 434px;margin-top:200px;}
     .bg_text p{padding:30px;width: 345.2px;height: 434px;font-size: 1.2rem;}
     .bg_melon img{display: none;}
